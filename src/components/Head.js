@@ -40,12 +40,13 @@ Unleash the power of financial innovation and step into a decentralized realm of
     </div>
   </div>
   </div>
-      </div>
-      <div className='headpart'>
+  <div className='headpart'>
         <div className='num1'>36+ <p>Countries</p></div>
         <div className='num2'>20000+ <p>Transaction/Day</p></div>
         <div className='num3'>1M+ <p>Trade per day</p></div>
       </div>
+      </div>
+      
       <Middle/>
       
     </div>
