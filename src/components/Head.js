@@ -4,6 +4,7 @@ import path from '../Path.svg'
 import Vector from '../Vector.svg'
 import Arwork from '../Arwork.png'
 import Middle from './Middle';
+import Asset2 from '../Asset2.png'
 
 const Head = () => {
   return (
@@ -29,14 +30,18 @@ const Head = () => {
       <h2>Pinnaccle of Cryto <br/>Communities</h2>
       <p>Embark on a Financial Revolution with Ultrapro Blockchain.
 Unleash the power of financial innovation and step into a decentralized realm of boundless possibilities. Join the ranks of millions worldwide who rely on Ultrapro Blockchain for its unparalleled technology, expansive global footprint, and unwavering commitment to pushing the boundaries of innovation.</p>
+
 </div>
 <div className='frontbutton'>
 <div className='button' >Contact US</div>
 <div className='button' >Learn more</div>
 </div>
     </div>
+    
     <div className='front2'>
+      
       <img src={Arwork}></img>
+      
     </div>
   </div>
   </div>
