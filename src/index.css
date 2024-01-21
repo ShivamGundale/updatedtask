@@ -1121,7 +1121,7 @@ background-size: 15%;
     font-size: 3vw;
   }
   .subfooter{
-    width: 70vw;
+    width: 92vw;
   }
   .subfooter1{
     width: 40%;
@@ -1159,4 +1159,14 @@ background-size: 15%;
 
   }
   
+  .soldiv .solimg2{
+    position: absolute;
+    top: 24%;
+    right: 25%;
+    width: 60%;
+    height: 60%;
+  }
+  .middle3{
+    background: none;
+  }
 }
